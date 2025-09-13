@@ -6,7 +6,7 @@ Melgar
 Buenaventura
 
 Santa Marta
-
+cc
 Estos municipios se tomaron como referencia porque representan destinos turísticos importantes en sus regiones.
 
 Variables y procesos aplicados
